@@ -16,13 +16,13 @@ This app uses React for create component and applies Redux for managing global s
 # To use this app:
 
 ### Clone the project:
-`git clone https://github.com/TienThinh-fe/counter-app-redux.git`
+```git clone https://github.com/TienThinh-fe/counter-app-redux.git```
 
 ### Install packages:
-`yarn`
+```yarn```
 
 ### Start development server
-`yarn start`
+```yarn start```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
