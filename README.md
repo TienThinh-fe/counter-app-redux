@@ -11,6 +11,8 @@ This app uses React for create component and applies Redux for managing global s
 ## Styled-components: https://styled-components.com/docs
 
 
+
+
 # To use this app:
 
 ### Clone the project:
