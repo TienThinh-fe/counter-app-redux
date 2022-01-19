@@ -2,13 +2,13 @@
 
 This app uses React for create component and applies Redux for managing global state
 
-## React: https://reactjs.org/docs/getting-started.html
+### React: https://reactjs.org/docs/getting-started.html
 
-## Redux: https://reactjs.org/docs/getting-started.html
+### Redux: https://reactjs.org/docs/getting-started.html
 
-## Redux-logger: https://github.com/LogRocket/redux-logger
+### Redux-logger: https://github.com/LogRocket/redux-logger
 
-## Styled-components: https://styled-components.com/docs
+### Styled-components: https://styled-components.com/docs
 
 
 
