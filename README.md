@@ -8,6 +8,9 @@ This app uses React for create component and applies Redux for managing global s
 
 ## Redux-logger: https://github.com/LogRocket/redux-logger
 
+## Styled-components: https://styled-components.com/docs
+
+
 # To use this app:
 
 ### Clone the project:
